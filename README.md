@@ -61,4 +61,4 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 
 # RESULT
-        Thus the program was exicuted successfully.
+        Thus the program was executed successfully.
